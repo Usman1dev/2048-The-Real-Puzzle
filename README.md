@@ -76,9 +76,8 @@ Allows seamless continuation without losing progress
 ---
 ## 👨‍💻 Author
 
-Muhammad Usman Khan
-
-🔗 GitHub: https://github.com/Usman1dev
+**Muhammad Usman Khan**<br>
+🔗 GitHub: https://github.com/Usman1dev<br>
 🔗 LinkedIn: https://www.linkedin.com/in/usman0310
 ---
 
